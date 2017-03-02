@@ -38,6 +38,9 @@
 * [banner-Android图片轮播控件](https://github.com/youth5201314/banner)
 * [LoopViewPagerLayout无限轮播](https://github.com/why168/LoopViewPagerLayout)
 
+##Loading
+* [请求网络的几种加载状态](https://github.com/weavey/LoadingLayoutDemo)
+
 ##插件
 * [Freeline的使用-快速调试android程序的插件](http://yanhuili.github.io/2016/11/26/AndroidStudio——Freeline插件的使用)
 
